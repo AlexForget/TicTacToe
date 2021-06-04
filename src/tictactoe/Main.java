@@ -1,6 +1,16 @@
 package tictactoe;
 import java.util.*;
 
+/*-------------------------------------------------------
+    @ nom du projet :tictactoe
+    @ auteur : Alexandre Forget
+    @ contact : alexandreqc26@gmail.com
+    @ version 0.1
+    @ date fin 2020
+    @ Petit programme de jeu tic tac toe
+    Premier projet personnel pour tester le POO
+--------------------------------------------------------*/
+
 public class Main {
 
 static Scanner clavier = new Scanner(System.in);
